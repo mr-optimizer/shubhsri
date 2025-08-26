@@ -3,17 +3,6 @@
 (function (exports) {
     'use strict';
 
-    /*!
-     * Project : simply-countdown
-     * Date : 27/06/2015
-     * License : MIT
-     * Version : 1.6.0
-     * Author : Vincent Loy <vincent.loy1@gmail.com>
-     * Contributors :
-     *  - Justin Beasley <JustinB@harvest.org>
-     *  - Nathan Smith <NathanS@harvest.org>
-     */
-
     /**
      * Function that merge user parameters with defaults one.
      * @param output
@@ -111,9 +100,9 @@
     exports.simplyCountdown = (elt, args) => {
         const eltProto = Object.getPrototypeOf(elt);
         let parameters = extend({
-            year: 2015,
-            month: 6,
-            day: 28,
+            year: 2025,
+            month: 11,
+            day: 30,
             hours: 9,
             minutes: 0,
             seconds: 0,
