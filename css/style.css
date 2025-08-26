@@ -538,7 +538,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-logo {
   color: black;
 }
-
+.fh5co-nav {
+  background-color: #00000058;
+}
 .hide-overlay {
   transform: translateY(200%);
   transition: 0.4s ease-in-out;
