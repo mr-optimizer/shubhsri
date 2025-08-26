@@ -9,16 +9,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
+  <a href="https://ngodingsolusi.github.io/the-wedding-of-Shubh-maulidan/">
+    <img src="images/shubhsri_heart.jpeg" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Rehan & Maulidan</strong>
+    <strong>Shubh & Maulidan</strong>
     <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <a href="https://ngodingsolusi.github.io/the-wedding-of-Shubh-maulidan/">Explore the Invitation ! »</a>
     <br />
     <br />
     <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
@@ -68,23 +68,23 @@ Reach me around the web :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
+## Rayhan Yulanda <img src="images/srishti-1.jpeg" width="30px">
 
 
 
 Reach me around the web :
 
 <a href="https://linkedin.com/in/rayhanyulanda">
-  <img alt="Rehan's Linkdein" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
+  <img alt="Shubh's Linkdein" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
 </a>
 <a target="_blank" href="https://github.com/rayhanyulanda">
-<img alt="Rehan's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
+<img alt="Shubh's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
 </a>
 <a target="_blank" href="https://www.facebook.com/rayhanyulanda/">
-<img alt="Rehan's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
+<img alt="Shubh's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
 </a>
 <a target="_blank" href="https://medium.com/@rayhanyulanda">
-<img alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
+<img alt="Shubh's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
 </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -95,9 +95,9 @@ Reach me around the web :
 - [Base Template](https://technext.github.io/wedding/)
 
 ### Show some :heart: with star the repo to support the project
-[![GitHub stars](https://img.shields.io/github/stars/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Star)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
-[![GitHub forks](https://img.shields.io/github/forks/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Fork)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
-[![GitHub watchers](https://img.shields.io/github/watchers/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Watch)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
+[![GitHub stars](https://img.shields.io/github/stars/ngodingsolusi/the-wedding-of-Shubh-maulidan.svg?style=social&label=Star)](https://github.com/ngodingsolusi/the-wedding-of-Shubh-maulidan)
+[![GitHub forks](https://img.shields.io/github/forks/ngodingsolusi/the-wedding-of-Shubh-maulidan.svg?style=social&label=Fork)](https://github.com/ngodingsolusi/the-wedding-of-Shubh-maulidan)
+[![GitHub watchers](https://img.shields.io/github/watchers/ngodingsolusi/the-wedding-of-Shubh-maulidan.svg?style=social&label=Watch)](https://github.com/ngodingsolusi/the-wedding-of-Shubh-maulidan)
 [![GitHub followers](https://img.shields.io/github/followers/maulidannashuha.svg?style=social&label=Follow)](https://github.com/maulidannashuha)
 
 ### NOTE : PLEASE KEEP THE COPYRIGHTS OR CREDITS
