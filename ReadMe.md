@@ -68,7 +68,7 @@ Reach me around the web :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Rayhan Yulanda <img src="images/srishti-1.jpeg" width="30px">
+## Srishti <img src="![images/srishti-1.jpeg](https://res.cloudinary.com/saienterprises/image/upload/v1763152342/shubhsri/images/srishti-1_clozaq.png)" width="30px">
 
 
 
