@@ -16,14 +16,14 @@
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Shubh & Maulidan</strong>
+    <strong>Shubh & Shri</strong>
     <br />
     <a href="https://ngodingsolusi.github.io/the-wedding-of-Shubh-maulidan/">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    <a href="https://github.com/rayhanyulanda">Shubham</a>
     ·
-    <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
+    <a href="https://github.com/maulidannashuha">Srishti/a>
   </p>
 </div>
 
